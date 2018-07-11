@@ -1,0 +1,16 @@
+
+.checkbox{
+	margin-left: 20px;
+}
+
+.navbar {
+    min-height: 86px;
+    border-radius: 4px;
+}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #1e88e5;
+    border-width: 2px;
+}
+
